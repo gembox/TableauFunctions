@@ -1,4 +1,4 @@
-# TableauFunctions
+# Tableau Functions
 
 This is a collection of functions that are meant to take tasks that can be time consuming in Tableau and turn them into python functions that can be easy to run. As I come up with new use cases, I will expand on the functions.
 
